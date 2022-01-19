@@ -7,6 +7,7 @@ http://localhost:8080
 
 ## URL to Fake API with JSON server
 http://localhost:3333/genres
+
 http://localhost:3333/movies
 
 ## Project commands
